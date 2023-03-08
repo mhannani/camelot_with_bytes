@@ -1,0 +1,21 @@
+fontconfig/
+__pycache__/
+*.py[cod]
+*.so
+
+build/
+dist/
+*.egg-info/
+.eggs/
+.coverage
+coverage.xml
+
+.pytest_cache/
+_build/
+
+.venv/
+camelot_venv/
+htmlcov/
+
+# vscode
+.vscode
